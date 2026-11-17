@@ -95,13 +95,6 @@ The plugin talks to `https://mcp.gscwizard.com` over OAuth 2.1; no API keys or c
 - [Terms of service](https://www.gscwizard.com/terms.html)
 - Support: [feedback form](https://www.gscwizard.com/feedback.html) or support@gscwizard.com
 
-## Development
-
-```
-git clone https://github.com/jbobbink/seo-rank-checker
-claude --plugin-dir ./seo-rank-checker
-```
-
 ## License
 
 MIT
