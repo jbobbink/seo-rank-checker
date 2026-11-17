@@ -62,6 +62,12 @@ On first use, Claude Code opens your browser to authorize the connection (OAuth 
 
 Prefer the server without the skills? `claude mcp add --transport http gsc-wizard-rank-checker https://mcp.gscwizard.com/mcp/rank-checker`
 
+### Cursor
+
+This repository is also a Cursor plugin (manifest in `.cursor-plugin/`, server in `mcp.json`). To add only the server, click the button; Cursor then opens the GSC Wizard sign-in (OAuth), so no key is needed:
+
+[![Add Rank Checker by GSC Wizard to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=gsc-wizard-rank-checker&config=eyJ1cmwiOiJodHRwczovL21jcC5nc2N3aXphcmQuY29tL21jcC9yYW5rLWNoZWNrZXIifQ%3D%3D)
+
 ## Example prompts
 
 - "Which keywords should I track for sc-domain:example.com in the Netherlands on mobile?"

@@ -1,0 +1,26 @@
+{
+  "name": "seo-rank-checker",
+  "displayName": "Rank Checker by GSC Wizard",
+  "version": "1.0.1",
+  "description": "Track where your own site ranks in Google for the keywords you choose, from your own Search Console data: daily average position per keyword by country and device, with changes between periods and guided skills to pick keywords, report on them and explain drops.",
+  "author": {
+    "name": "GSC Wizard",
+    "email": "support@gscwizard.com",
+    "url": "https://www.gscwizard.com"
+  },
+  "homepage": "https://www.gscwizard.com",
+  "repository": "https://github.com/jbobbink/seo-rank-checker",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "rank-checker",
+    "rank-tracker",
+    "keyword-rankings",
+    "keyword-tracking",
+    "google-rankings",
+    "google-search-console",
+    "search-console",
+    "serp-position"
+  ],
+  "logo": "assets/icon.png"
+}

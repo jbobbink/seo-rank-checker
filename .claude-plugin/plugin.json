@@ -2,7 +2,7 @@
   "name": "seo-rank-checker",
   "displayName": "Rank Checker by GSC Wizard",
   "description": "Track where your own site ranks in Google for the keywords you choose, from your own Search Console data: daily average position per keyword by country and device, with changes between periods and guided skills to pick keywords, report on them and explain drops.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "./assets/icon.png",
   "author": {
     "name": "GSC Wizard",
