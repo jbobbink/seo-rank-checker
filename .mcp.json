@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gsc-wizard-rank-checker": {
+      "type": "http",
+      "url": "https://mcp.gscwizard.com/mcp/rank-checker"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+    <rect x="86" y="222" width="340" height="262" rx="22" fill="#f3e9c9" stroke="#232c55" stroke-width="9"/>
+    <rect x="118" y="400" width="52" height="48" rx="8" fill="#5468a3" stroke="#232c55" stroke-width="7"/><rect x="190" y="368" width="52" height="80" rx="8" fill="#5468a3" stroke="#232c55" stroke-width="7"/><rect x="262" y="336" width="52" height="112" rx="8" fill="#7c5ea6" stroke="#232c55" stroke-width="7"/><rect x="334" y="304" width="52" height="144" rx="8" fill="#7c5ea6" stroke="#232c55" stroke-width="7"/>
+    <path d="M126 372 L212 334 L282 314 L344 270" fill="none" stroke="#232c55" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M126 372 L212 334 L282 314 L344 270" fill="none" stroke="#f0c75e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M384 242 L366 294 L330 248 Z" fill="#f0c75e" stroke="#232c55" stroke-width="7" stroke-linejoin="round"/>
+    
+  <g transform="translate(256 214) scale(0.86)">
+    <defs><clipPath id="cone256214"><path d="M-112 -6 C-90 -70 -55 -130 -8 -168 C25 -194 70 -196 94 -172 C108 -158 110 -138 100 -126 C92 -146 74 -152 58 -146 C36 -138 30 -112 40 -84 C52 -52 80 -26 112 -6 Z"/></clipPath></defs>
+    <ellipse cx="0" cy="2" rx="196" ry="38" fill="#3d4f8f" stroke="#232c55" stroke-width="9"/>
+    <path d="M-112 -6 C-90 -70 -55 -130 -8 -168 C25 -194 70 -196 94 -172 C108 -158 110 -138 100 -126 C92 -146 74 -152 58 -146 C36 -138 30 -112 40 -84 C52 -52 80 -26 112 -6 Z" fill="#3d4f8f"/>
+    <path d="M-30 -150 C-60 -110 -80 -60 -92 -8 L-60 -8 C-50 -60 -36 -110 -10 -160 Z" fill="#5468a3" opacity=".55" clip-path="url(#cone256214)"/>
+    <path d="M-140 -46 Q0 -20 140 -46 L140 -2 Q0 22 -140 -2 Z" fill="#7c5ea6" clip-path="url(#cone256214)"/>
+    <path d="M-112 -6 C-90 -70 -55 -130 -8 -168 C25 -194 70 -196 94 -172 C108 -158 110 -138 100 -126 C92 -146 74 -152 58 -146 C36 -138 30 -112 40 -84 C52 -52 80 -26 112 -6 Z" fill="none" stroke="#232c55" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M-104 -40 Q0 -16 104 -40" fill="none" stroke="#232c55" stroke-width="6.3" stroke-linecap="round" clip-path="url(#cone256214)"/>
+    <path d="M-196 2 A196 38 0 0 0 196 2" fill="none" stroke="#232c55" stroke-width="9"/>
+    <path d="M-112 -6 Q0 22 112 -6" fill="none" stroke="#232c55" stroke-width="7.2" stroke-linecap="round"/>
+    <polygon points="-40.0,-109.0 -36.6,-100.7 -27.6,-100.0 -34.4,-94.2 -32.4,-85.5 -40.0,-90.2 -47.6,-85.5 -45.6,-94.2 -52.4,-100.0 -43.4,-100.7" fill="#f3e9c9"/><polygon points="10.0,-149.0 12.4,-143.3 18.6,-142.8 13.9,-138.7 15.3,-132.7 10.0,-135.9 4.7,-132.7 6.1,-138.7 1.4,-142.8 7.6,-143.3" fill="#f3e9c9"/><polygon points="60.0,-175.0 61.9,-170.5 66.7,-170.2 63.0,-167.0 64.1,-162.3 60.0,-164.8 55.9,-162.3 57.0,-167.0 53.3,-170.2 58.1,-170.5" fill="#f3e9c9"/><polygon points="-62.0,-65.0 -60.1,-60.5 -55.3,-60.2 -59.0,-57.0 -57.9,-52.3 -62.0,-54.9 -66.1,-52.3 -65.0,-57.0 -68.7,-60.2 -63.9,-60.5" fill="#f3e9c9"/>
+    <path d="M14 -64 a24 24 0 1 0 22 30 a19 19 0 1 1 -22 -30 Z" fill="#f3e9c9" stroke="#232c55" stroke-width="3"/>
+    <circle cx="100" cy="-122" r="9" fill="#f3e9c9" stroke="#232c55" stroke-width="4"/>
+  </g></svg>
